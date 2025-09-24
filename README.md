@@ -4,7 +4,7 @@
 - 🖥️ Programming with **Python** for 4+ years  
 - ⚡ Recently started exploring **Go**
 - 📊 Currently writing my **Mathematics Bachelor's thesis** in the field of **Optimization**
-- 
+
 <!--
 **sebasukodo/sebasukodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,6 +5,10 @@
 - ⚡ Recently started exploring **Go**
 - 📊 Currently writing my **Mathematics Bachelor's thesis** in the field of **Optimization**
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/c16e36c8-89d4-4057-9ddc-5c5601102610/thumbnail" >
+</p>
+
 <!--
 **sebasukodo/sebasukodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

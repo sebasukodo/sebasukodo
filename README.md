@@ -1,9 +1,12 @@
 ## Hi I'm Sebastian Lein 👋
 
-- 📖 Learning **Japanese**  
+- 🎓 Mathematics Bachelor's graduate  
+- 📊 Bachelor's thesis in **Optimization**
 - 🖥️ Programming with **Python** for 4+ years  
 - ⚡ Recently started exploring **Go**
-- 📊 Currently writing my **Mathematics Bachelor's thesis** in the field of **Optimization**
+- 📖 Learning **Japanese**
+
+- Open to junior roles in data science, optimitzation and software development
 
 <!--
 **sebasukodo/sebasukodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

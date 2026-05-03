@@ -2,8 +2,8 @@
 
 - 🎓 Mathematics Bachelor's graduate  
 - 📊 Bachelor's thesis in **Optimization**
-- 🖥️ Programming with **Python** for 4+ years  
-- ⚡ Recently started exploring **Go**
+- 🖥️ Programming with **Python** and **Go**
+- ⚡ Recently started exploring **TypeScript and React**
 - 📖 Learning **Japanese**
 
 - Open to junior roles in data science, optimitzation and software development

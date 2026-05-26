@@ -6,7 +6,7 @@
 - ⚡ Recently started exploring **TypeScript** and **React**
 - 📖 Learning **Japanese**
 
-- Open to junior roles in data science, optimitzation and software development
+- Open to junior roles in optimitzation and software development
 
 <!--
 **sebasukodo/sebasukodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

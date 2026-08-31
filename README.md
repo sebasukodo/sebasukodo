@@ -1,12 +1,11 @@
 ## Hi I'm Sebastian Lein 👋
 
 - 🎓 Mathematics Bachelor's graduate  
-- 📊 Bachelor's thesis in **Optimization**
-- 🖥️ Programming with **Python** and **Go**
-- ⚡ Recently started exploring **TypeScript** and **React**
+- 🖥️ Programming mainly with **Go**
+- ⚡ Recently started exploring **Kotlin**
 - 📖 Learning **Japanese**
 
-- Open to junior roles in optimitzation and software development
+- Open to junior roles in software development
 
 <!--
 **sebasukodo/sebasukodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
